@@ -1,0 +1,244 @@
+{
+  "songs": [
+    {
+      "id": "bohemian-rhapsody",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+      "album_art_small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a",
+      "duration_ms": 354947,
+      "preview_url": null,
+      "release_date": "1975-10-31",
+      "audio_features": {
+        "energy": 0.402,
+        "valence": 0.228,
+        "tempo": 71.105,
+        "danceability": 0.390,
+        "acousticness": 0.279,
+        "instrumentalness": 0.0,
+        "loudness": -9.928
+      }
+    },
+    {
+      "id": "hotel-california",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "album": "Hotel California",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
+      "album_art_small": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778",
+      "duration_ms": 391376,
+      "preview_url": null,
+      "release_date": "1977-02-22",
+      "audio_features": {
+        "energy": 0.508,
+        "valence": 0.464,
+        "tempo": 147.117,
+        "danceability": 0.579,
+        "acousticness": 0.0136,
+        "instrumentalness": 0.0,
+        "loudness": -9.254
+      }
+    },
+    {
+      "id": "billie-jean",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b27343f7846dad7a21cbe48e5f29",
+      "album_art_small": "https://i.scdn.co/image/ab67616d0000485143f7846dad7a21cbe48e5f29",
+      "duration_ms": 293826,
+      "preview_url": null,
+      "release_date": "1982-11-30",
+      "audio_features": {
+        "energy": 0.728,
+        "valence": 0.818,
+        "tempo": 117.046,
+        "danceability": 0.855,
+        "acousticness": 0.0392,
+        "instrumentalness": 0.00269,
+        "loudness": -2.881
+      }
+    },
+    {
+      "id": "smells-like-teen-spirit",
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+      "album_art_small": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+      "duration_ms": 301920,
+      "preview_url": null,
+      "release_date": "1991-09-10",
+      "audio_features": {
+        "energy": 0.913,
+        "valence": 0.419,
+        "tempo": 116.761,
+        "danceability": 0.513,
+        "acousticness": 0.000144,
+        "instrumentalness": 0.0,
+        "loudness": -5.796
+      }
+    },
+    {
+      "id": "bad-guy",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+      "album_art_small": "https://i.scdn.co/image/ab67616d0000485150a3147b4edd7701a876c6ce",
+      "duration_ms": 194088,
+      "preview_url": null,
+      "release_date": "2019-03-29",
+      "audio_features": {
+        "energy": 0.435,
+        "valence": 0.562,
+        "tempo": 135.128,
+        "danceability": 0.701,
+        "acousticness": 0.328,
+        "instrumentalness": 0.0,
+        "loudness": -10.965
+      }
+    },
+    {
+      "id": "runaway",
+      "title": "Runaway",
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+      "album_art_small": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
+      "duration_ms": 547587,
+      "preview_url": null,
+      "release_date": "2010-11-22",
+      "audio_features": {
+        "energy": 0.370,
+        "valence": 0.107,
+        "tempo": 85.009,
+        "danceability": 0.398,
+        "acousticness": 0.0218,
+        "instrumentalness": 0.0,
+        "loudness": -7.613
+      }
+    },
+    {
+      "id": "stairway-to-heaven",
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+      "album_art_small": "https://i.scdn.co/image/ab67616d00004851c8a11e48c91a982d086afc69",
+      "duration_ms": 482830,
+      "preview_url": null,
+      "release_date": "1971-11-08",
+      "audio_features": {
+        "energy": 0.426,
+        "valence": 0.206,
+        "tempo": 82.377,
+        "danceability": 0.375,
+        "acousticness": 0.0477,
+        "instrumentalness": 0.000242,
+        "loudness": -9.377
+      }
+    },
+    {
+      "id": "like-a-rolling-stone",
+      "title": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "album": "Highway 61 Revisited",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+      "album_art_small": "https://i.scdn.co/image/ab67616d000048517d214af8499aa95ad220f573",
+      "duration_ms": 373066,
+      "preview_url": null,
+      "release_date": "1965-07-20",
+      "audio_features": {
+        "energy": 0.684,
+        "valence": 0.639,
+        "tempo": 96.534,
+        "danceability": 0.538,
+        "acousticness": 0.318,
+        "instrumentalness": 0.0,
+        "loudness": -8.095
+      }
+    },
+    {
+      "id": "purple-rain",
+      "title": "Purple Rain",
+      "artist": "Prince",
+      "album": "Purple Rain",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b",
+      "album_art_small": "https://i.scdn.co/image/ab67616d00004851d52bfb90ee8dfeda8378b99b",
+      "duration_ms": 520947,
+      "preview_url": null,
+      "release_date": "1984-06-25",
+      "audio_features": {
+        "energy": 0.434,
+        "valence": 0.194,
+        "tempo": 113.445,
+        "danceability": 0.348,
+        "acousticness": 0.109,
+        "instrumentalness": 0.0,
+        "loudness": -11.428
+      }
+    },
+    {
+      "id": "imagine",
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "album": "Imagine",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273b1b7f0c3be3c4d5e72f71a55",
+      "album_art_small": "https://i.scdn.co/image/ab67616d00004851b1b7f0c3be3c4d5e72f71a55",
+      "duration_ms": 187733,
+      "preview_url": null,
+      "release_date": "1971-10-11",
+      "audio_features": {
+        "energy": 0.217,
+        "valence": 0.161,
+        "tempo": 75.752,
+        "danceability": 0.436,
+        "acousticness": 0.907,
+        "instrumentalness": 0.0,
+        "loudness": -13.308
+      }
+    },
+    {
+      "id": "blinding-lights",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+      "album_art_small": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+      "duration_ms": 200040,
+      "preview_url": null,
+      "release_date": "2020-03-20",
+      "audio_features": {
+        "energy": 0.730,
+        "valence": 0.334,
+        "tempo": 171.005,
+        "danceability": 0.514,
+        "acousticness": 0.00146,
+        "instrumentalness": 0.0,
+        "loudness": -5.934
+      }
+    },
+    {
+      "id": "good-4-u",
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd535f9ac5",
+      "album_art_small": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd535f9ac5",
+      "duration_ms": 178147,
+      "preview_url": null,
+      "release_date": "2021-05-21",
+      "audio_features": {
+        "energy": 0.664,
+        "valence": 0.688,
+        "tempo": 166.928,
+        "danceability": 0.563,
+        "acousticness": 0.335,
+        "instrumentalness": 0.0,
+        "loudness": -5.044
+      }
+    }
+  ]
+}

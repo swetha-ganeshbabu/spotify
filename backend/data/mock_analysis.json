@@ -1,0 +1,227 @@
+{
+  "bohemian-rhapsody": {
+    "lyrics_breakdown": [
+      {
+        "section": "Introduction",
+        "timestamp": "0:00",
+        "lyrics": "Is this the real life? Is this just fantasy?",
+        "analysis": "The song opens with existential questioning, immediately drawing the listener into an introspective journey. The a cappella delivery creates an intimate, dreamlike atmosphere.",
+        "themes": ["existentialism", "reality vs fantasy"]
+      },
+      {
+        "section": "Ballad Section",
+        "timestamp": "0:49",
+        "lyrics": "Mama, just took a man's life...",
+        "analysis": "A confessional narrative unfolds over gentle piano, revealing a protagonist grappling with guilt. The word 'Mama' grounds the cosmic themes in deeply personal emotion.",
+        "themes": ["confession", "consequence", "family"]
+      },
+      {
+        "section": "Opera Section",
+        "timestamp": "3:03",
+        "lyrics": "Galileo, Galileo, Bismillah...",
+        "analysis": "A theatrical operatic passage featuring layered vocal harmonies. References to historical and religious figures create a sense of epic struggle between forces of mercy and judgment.",
+        "themes": ["struggle", "judgment", "theatricality"]
+      },
+      {
+        "section": "Hard Rock Section",
+        "timestamp": "4:07",
+        "lyrics": "So you think you can stone me and spit in my eye?",
+        "analysis": "The defiant hard rock section represents a turning point — the protagonist channels anguish into anger and rebellion, driven by distorted guitars.",
+        "themes": ["defiance", "rebellion", "empowerment"]
+      },
+      {
+        "section": "Outro",
+        "timestamp": "4:55",
+        "lyrics": "Nothing really matters to me...",
+        "analysis": "The song returns to its reflective opening mood, closing with quiet resignation. The circular structure suggests the journey was internal all along.",
+        "themes": ["acceptance", "nihilism", "peace"]
+      }
+    ],
+    "cultural_context": {
+      "historical_background": "Released in 1975, Bohemian Rhapsody defied every convention of popular music. At nearly six minutes with no chorus, multiple genre shifts, and operatic vocals, it was considered uncommercial. Queen and producer Roy Thomas Baker pushed the boundaries of multi-track recording technology to create the song's legendary layered vocals.",
+      "references": [
+        {
+          "term": "Galileo",
+          "explanation": "Reference to the Italian astronomer Galileo Galilei, symbolizing the tension between truth and established authority."
+        },
+        {
+          "term": "Bismillah",
+          "explanation": "An Arabic phrase meaning 'In the name of God,' used in the operatic section to represent a plea for mercy."
+        },
+        {
+          "term": "Scaramouche",
+          "explanation": "A stock clown character from commedia dell'arte, representing the theatrical and performative nature of the song's narrative."
+        }
+      ],
+      "cultural_impact": "Bohemian Rhapsody revolutionized what a rock single could be. Its 1991 resurgence through the film Wayne's World introduced it to a new generation. The 2018 biopic of the same name became the highest-grossing music biography film. It consistently tops greatest songs polls worldwide."
+    },
+    "production_analysis": {
+      "overview": "A groundbreaking production that seamlessly blends ballad, opera, and hard rock into a unified six-minute suite. The recording pushed 1970s studio technology to its absolute limits.",
+      "techniques": ["multi-track vocal layering", "tape splicing", "dynamic range manipulation", "cross-fading between sections"],
+      "instruments": ["grand piano", "electric guitar", "bass guitar", "drums", "timpani"],
+      "notable_elements": "The operatic section alone required 180 vocal overdubs across multiple tape machines. Brian May's guitar solo in the rock section is widely regarded as one of the greatest ever recorded, using a custom-built guitar fed through a wall of amplifiers."
+    },
+    "why_it_matters": "Bohemian Rhapsody proved that popular music could be ambitious, experimental, and commercially successful simultaneously. It shattered the notion that radio singles needed to be short and formulaic, paving the way for progressive and art rock to reach mainstream audiences. Its enduring popularity across generations speaks to the universal power of bold artistic vision.",
+    "similar_songs": [
+      {
+        "title": "A Day in the Life",
+        "artist": "The Beatles",
+        "reason": "Another groundbreaking suite that combines contrasting musical sections into a unified masterpiece."
+      },
+      {
+        "title": "November Rain",
+        "artist": "Guns N' Roses",
+        "reason": "An epic rock ballad that similarly shifts between orchestral and hard rock passages."
+      },
+      {
+        "title": "Paranoid Android",
+        "artist": "Radiohead",
+        "reason": "A multi-section rock epic that defies conventional song structure, clearly influenced by Bohemian Rhapsody."
+      }
+    ]
+  },
+  "hotel-california": {
+    "lyrics_breakdown": [
+      {
+        "section": "Verse 1",
+        "timestamp": "0:00",
+        "lyrics": "On a dark desert highway, cool wind in my hair...",
+        "analysis": "The opening verse paints a cinematic scene of a weary traveler drawn toward a mysterious destination. The vivid sensory imagery creates an atmosphere of allure and unease.",
+        "themes": ["journey", "temptation", "mystery"]
+      },
+      {
+        "section": "Verse 2",
+        "timestamp": "1:10",
+        "lyrics": "Her mind is Tiffany-twisted, she got the Mercedes Benz...",
+        "analysis": "Materialism and excess are personified through luxury brand references. The 'she' character embodies the seductive nature of the California lifestyle.",
+        "themes": ["materialism", "excess", "seduction"]
+      },
+      {
+        "section": "Chorus",
+        "timestamp": "1:50",
+        "lyrics": "Welcome to the Hotel California...",
+        "analysis": "The chorus functions as both invitation and warning. The Hotel California serves as a metaphor for a place of entrapment disguised as paradise.",
+        "themes": ["entrapment", "illusion", "paradise"]
+      },
+      {
+        "section": "Guitar Outro",
+        "timestamp": "4:20",
+        "lyrics": "(Instrumental)",
+        "analysis": "The iconic dual guitar harmony solo by Don Felder and Joe Walsh serves as the emotional climax. The intertwining guitar lines represent the inescapable nature of the hotel itself.",
+        "themes": ["virtuosity", "duality", "resolution"]
+      }
+    ],
+    "cultural_context": {
+      "historical_background": "Written in 1976, Hotel California captured the disillusionment following the idealism of the 1960s. The Eagles channeled the darker side of the American Dream, particularly the excesses of the Southern California music industry and lifestyle.",
+      "references": [
+        {
+          "term": "Hotel California",
+          "explanation": "A metaphorical place representing excess and the inability to escape from a hedonistic lifestyle once embraced."
+        },
+        {
+          "term": "Colitas",
+          "explanation": "A Spanish word referring to desert wildflowers, adding to the song's evocative Southwestern atmosphere."
+        },
+        {
+          "term": "1969",
+          "explanation": "A year referenced in the lyrics symbolizing the end of the 1960s idealism and the beginning of a more cynical era."
+        }
+      ],
+      "cultural_impact": "Hotel California became a defining song of the 1970s and a symbol of American rock music. Its guitar outro is consistently ranked among the greatest guitar solos ever. The album of the same name has sold over 32 million copies worldwide."
+    },
+    "production_analysis": {
+      "overview": "Meticulously crafted production featuring layered acoustic and electric guitars, creating a rich, warm sound that perfectly complements the song's mysterious narrative.",
+      "techniques": ["dual guitar harmonies", "12-string acoustic layering", "stereo panning", "gradual dynamic build"],
+      "instruments": ["12-string acoustic guitar", "electric guitar", "bass guitar", "drums", "congas"],
+      "notable_elements": "The dual guitar harmony solo was composed note-for-note rather than improvised, with Felder and Walsh trading melodic lines in a carefully choreographed musical conversation that builds to an unforgettable climax."
+    },
+    "why_it_matters": "Hotel California captured a moment of cultural reckoning in America, wrapping sharp social commentary in an irresistible melodic package. Its exploration of excess, disillusionment, and the dark side of paradise remains as relevant today as it was in 1977.",
+    "similar_songs": [
+      {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "reason": "Another epic rock song that builds from acoustic beginnings to an electric climax with allegorical lyrics."
+      },
+      {
+        "title": "Free Bird",
+        "artist": "Lynyrd Skynyrd",
+        "reason": "A classic rock anthem with an extended guitar outro that became equally iconic."
+      },
+      {
+        "title": "Comfortably Numb",
+        "artist": "Pink Floyd",
+        "reason": "Features a similarly legendary guitar solo and explores themes of detachment and altered reality."
+      }
+    ]
+  },
+  "billie-jean": {
+    "lyrics_breakdown": [
+      {
+        "section": "Verse 1",
+        "timestamp": "0:00",
+        "lyrics": "She was more like a beauty queen from a movie scene...",
+        "analysis": "The opening verse establishes a cinematic quality, describing an encounter with an alluring but deceptive figure. The storytelling is immediate and gripping.",
+        "themes": ["deception", "beauty", "narrative"]
+      },
+      {
+        "section": "Chorus",
+        "timestamp": "0:55",
+        "lyrics": "Billie Jean is not my lover...",
+        "analysis": "The iconic chorus is a direct denial and defense. The repetitive insistence creates both a catchy hook and a sense of desperate persuasion.",
+        "themes": ["denial", "identity", "accusation"]
+      },
+      {
+        "section": "Verse 2",
+        "timestamp": "1:30",
+        "lyrics": "For forty days and for forty nights, the law was on her side...",
+        "analysis": "Biblical allusion to forty days adds weight to the narrative. The legal framing elevates a personal story to something with broader social implications.",
+        "themes": ["justice", "persecution", "biblical allusion"]
+      },
+      {
+        "section": "Bridge & Outro",
+        "timestamp": "3:20",
+        "lyrics": "She told my baby we danced till three...",
+        "analysis": "The bridge raises the emotional stakes by involving another relationship. The repeated chorus drives home the central tension without resolution.",
+        "themes": ["jealousy", "reputation", "unresolved tension"]
+      }
+    ],
+    "cultural_context": {
+      "historical_background": "Released in January 1983 as the second single from Thriller, Billie Jean became a cultural phenomenon. Its bassline is one of the most recognizable in pop music history. The song helped break racial barriers on MTV when the music video received heavy rotation.",
+      "references": [
+        {
+          "term": "Forty days and forty nights",
+          "explanation": "A biblical reference to periods of trial and testing, adding gravity to the narrative of false accusation."
+        },
+        {
+          "term": "The kid is not my son",
+          "explanation": "A direct denial that grounds the song's abstract imagery in a specific, relatable conflict about paternity."
+        }
+      ],
+      "cultural_impact": "Billie Jean was pivotal in breaking MTV's racial barrier, becoming one of the first videos by a Black artist in heavy rotation. Michael Jackson's iconic moonwalk was first performed during a televised performance of this song in 1983, becoming one of the most famous moments in entertainment history."
+    },
+    "production_analysis": {
+      "overview": "Produced by Quincy Jones with a minimalist approach that lets the groove breathe. Every element serves the rhythm, creating an irresistible danceable track with remarkable depth.",
+      "techniques": ["drum machine programming", "bass layering", "vocal multi-tracking", "minimalist arrangement", "reverb automation"],
+      "instruments": ["Fender Rhodes", "synthesizer bass", "drum machine", "electric guitar", "string synthesizer"],
+      "notable_elements": "The opening drum pattern and bassline, created by bassist Louis Johnson, went through dozens of iterations. Michael Jackson insisted on the specific mix that made the kick drum feel like it was hitting you in the chest. The sparse arrangement leaves space that makes every element feel essential."
+    },
+    "why_it_matters": "Billie Jean redefined pop music production, proving that minimalism could be more powerful than excess. It helped transform Michael Jackson into the King of Pop, broke racial barriers in media, and established a template for pop-R&B production that influences artists to this day.",
+    "similar_songs": [
+      {
+        "title": "When Doves Cry",
+        "artist": "Prince",
+        "reason": "Another 1980s pop masterpiece with innovative minimal production and deeply personal lyrics."
+      },
+      {
+        "title": "Superstition",
+        "artist": "Stevie Wonder",
+        "reason": "A funk-driven classic with an equally iconic groove and rhythm-forward production."
+      },
+      {
+        "title": "Crazy in Love",
+        "artist": "Beyonce",
+        "reason": "A modern pop anthem that carries forward Billie Jean's legacy of groove-driven, genre-defining production."
+      }
+    ]
+  }
+}
